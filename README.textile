@@ -1,0 +1,3 @@
+h1. GitHub 'Fork me on Github' ribbon image at standard (72ppi) and retina (144ppi) resolutions
+
+CSS will check for higher resolution screen and serve the @2x image instead. Fully editable Adobe Photoshop .psd file included.
