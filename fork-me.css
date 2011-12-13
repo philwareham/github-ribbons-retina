@@ -1,0 +1,17 @@
+#fork-me {
+    position: fixed; /* options: fixed, absolute */
+    top: 0;
+    right: 0;
+    z-index: 9999;
+    width: 140px;
+    height: 140px;
+    text-indent: -9999px;
+    background-image: url("fork-me.png");
+}
+
+@media (-webkit-min-device-pixel-ratio: 2) {
+    #fork-me {
+        background-image: url("fork-me@2x.png") !important;
+        -webkit-background-size: 140px 140px;
+    }
+}
